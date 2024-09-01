@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\bin\Debug\net8.0\Sort.exe
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\bin\Debug\net8.0\Sort.deps.json
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\bin\Debug\net8.0\Sort.runtimeconfig.json
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\bin\Debug\net8.0\Sort.dll
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\bin\Debug\net8.0\Sort.pdb
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.AssemblyInfo.cs
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.dll
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\refint\Sort.dll
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.pdb
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.genruntimeconfig.cache
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\ref\Sort.dll
