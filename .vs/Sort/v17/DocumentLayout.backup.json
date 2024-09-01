@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8237D809-BEEA-45C4-8757-9E5CBF92D82F}|Sort\\Sort.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week10\\sort\\sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8237D809-BEEA-45C4-8757-9E5CBF92D82F}|Sort\\Sort.csproj|solutionrelative:sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8237D809-BEEA-45C4-8757-9E5CBF92D82F}|Sort\\Sort.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week10\\sort\\sort\\ilinkedliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8237D809-BEEA-45C4-8757-9E5CBF92D82F}|Sort\\Sort.csproj|solutionrelative:sort\\ilinkedliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 161,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILinkedListE.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week10\\Sort\\Sort\\ILinkedListE.cs",
+              "RelativeDocumentMoniker": "Sort\\ILinkedListE.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week10\\Sort\\Sort\\ILinkedListE.cs",
+              "RelativeToolTip": "Sort\\ILinkedListE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T08:22:49.269Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Sort\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week10\\Sort\\Sort\\Program.cs*",
               "RelativeToolTip": "Sort\\Program.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T07:13:40.362Z",
               "EditorCaption": ""

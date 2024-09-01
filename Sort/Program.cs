@@ -2,7 +2,7 @@
 
 namespace Sort
 {
-    internal class Program
+    internal class Program()
     {
         static void Main(string[] args)
         {
@@ -14,6 +14,15 @@ namespace Sort
             int[] selectionSortArray = BubbleSort(new int[] { 7, 4, 9, 3, 2, 1, 6, 8, 5, 10 });
 
             Console.WriteLine(string.Join(", ", selectionSortArray));
+
+
+
+            ILinkedListE<int> list = new LinkedListE<int>();
+            list.Push(1);
+            list.Push(2);
+            list.Push(3);
+            Console.WriteLine(list.Pop());
+            Console.WriteLine(list.ToString()); 
         }
 
         public static int[] BubbleSort(int[] array)
