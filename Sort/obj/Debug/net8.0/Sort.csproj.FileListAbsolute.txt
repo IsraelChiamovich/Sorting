@@ -12,3 +12,4 @@ C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\refint\So
 C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.pdb
 C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.genruntimeconfig.cache
 C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\ref\Sort.dll
+C:\Users\user\Desktop\idf kodcode\c#\week10\Sort\Sort\obj\Debug\net8.0\Sort.sourcelink.json
